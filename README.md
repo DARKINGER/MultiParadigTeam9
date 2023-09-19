@@ -41,3 +41,5 @@ en pantalla la información del usuario de lo contrario mostrar mensaje de “da
 información de todos los usuarios registrados al momento.
 
 ## Practica 2
+
+#
